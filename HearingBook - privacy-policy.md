@@ -1,6 +1,6 @@
 # Privacy Policy for Hearing Book
 
-*Last updated: 30 July 2026 · Developer: Sajjad Ali Shah (DiJEN Tech)*
+*Last updated: 5 August 2026 · Developer: Sajjad Ali Shah (DiJEN Tech)*
 
 Hearing Book ("the app", "we", "our") is a hearing-assistance app developed by DiJEN Tech.
 This policy explains what data the app handles, why, and how it is stored. It applies to
@@ -50,7 +50,7 @@ off at any time in your device's system backup settings.
 | Foreground service / Foreground service (microphone) | Lets the hearing aid keep running with the screen off or the app backgrounded, showing a persistent notification while active (required by Android for any app that keeps the microphone running in the background). |
 | Notifications | Shows the ongoing status notification while the hearing aid or a recording is active. |
 | Internet | Used only to download the optional on-device speech-transcription model file the first time you enable transcription. No personal or usage data is sent with this request beyond what any standard internet connection requires (such as your device's IP address, visible to the hosting server, exactly as with visiting any website). |
-| Accessibility service | Optional. If you turn this on in Settings, it lets you control the hearing aid and recording with your physical volume buttons, including while the screen is off or locked. It is used **only** to detect volume button presses. It does **not** read your screen, other apps, or any personal content - this is explicitly disabled in the app's configuration. You can turn this off at any time from your device's Accessibility settings. |
+| Accessibility service | Optional. If you turn this on in Settings, it lets you control the hearing aid and recording with your physical volume buttons, including while the screen is off or locked. It is used **only** to detect volume button presses. It does **not** read your screen, other apps, or any personal content - this is explicitly disabled in the app's configuration. It is **never** used to record phone calls or any audio other than the app's own microphone-based hearing/recording feature described above, and it never changes any device or app setting on your behalf. Before you can turn it on, the app shows an in-app disclosure screen explaining exactly what it does and asks you to confirm before taking you to your device's Accessibility settings. You can turn this off at any time from your device's Accessibility settings. |
 
 ## Third-party services
 
